@@ -1,38 +1,32 @@
-# Prérequis
+# <span style="color:#17D7B6;"><span>Space Ore</span></span>
 
-Nodejs doit être installé
+Discover **Space Ore** - <span style="text-decoration:underline;">Unlocking the Treasures of the Cosmos!</span>
 
-# Installer le projet
+At **Space Ore**, we are at the forefront of stellar mineral trading, bridging the world to the wonders of the universe. Our mission is to unearth the celestial riches that the cosmos has to offer and make them accessible to industries and individuals.
 
-```bash
-npm install
-```
+With a dedicated team of experts and cutting-edge technology, we venture into the far reaches of space to acquire the rarest and most precious stellar minerals. From precious stardust to exotic asteroid alloys, we bring the very essence of the cosmos to your doorstep.
 
+What sets us apart is our unwavering commitment to sustainability and ethical sourcing. We ensure that every stellar mineral we offer is obtained responsibly, without compromising the integrity of the cosmos or the well-being of our planet.
+**Space Ore** is your trusted partner for sourcing top-tier stellar minerals. Join us in this exciting adventure through the stars. 🌌🚀🪐
 
-# Lancer le serveur de développement
+## <span style="color:#17D7B6;">Installation</span>
 
-```bash
-npm run dev
-```
+To get started with <strong>Space Ore</strong>, follow these simple steps:
 
-# Les dossiers
+1. Clone the repository:
 
-## /scss
-Il contiendra tout vos fichiers scss
+   ```bash
+   git clone https://github.com/KillianHzr/headInTheStars.git head-to-the-stars
+   ```
 
-## /public
+2. Install packages:
+   ```bash
+   npm install
+   ```
+3. Launch project:
+   ```bash
+   npm run dev
+   ```
+<br>
 
-Il contiendra tous les assets publics.
-Exemple : Fonts, Images, etc ...
-
-Par exemple, le dossier public contient une image monimage.png
-
-Vous pouvez accéder à une ressource dans le html ou scss ainsi
-
-```html
-<img src="/monimage.png />
-```
-
-## src/main.js
-
-Pour ceux qui souhaitent faire du javascript, le point d'entré du javascript est main.js, vous pouvez importer d'autre fichiers javascript depuis ici
+*Note : **Space Ore** is a school project initiated by me, Maxime Portalier, a student at My Digital School, as part of my web development training. This endeavor is a captivating and instructive adventure, carefully designed for educational purposes, inviting you to discover the beauty of the cosmos. **Space Ore** wishes you a delightful exploration and reminds you to <span style="color:#17D7B6;text-decoration:underline;">visit our store</span> to witness the vastness of the riches within our universe.*</div>
