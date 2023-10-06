@@ -16,7 +16,7 @@ To get started with <strong>Space Ore</strong>, follow these simple steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/KillianHzr/headInTheStars.git head-to-the-stars
+   git clone https://github.com/MaximePortalier/Space-Ore.git
    ```
 
 2. Install packages:
