@@ -1,4 +1,20 @@
-# <span style="color:#17D7B6;"><span>Space Ore</span></span>
+<!-- vitrine:debut — dessinée par le hub (hub/deploiement/vitrines.mjs) à partir de la fiche du projet : relancer l'outil plutôt que d'éditer ce bloc -->
+<p align="center">
+  <img src="vitrine/banniere.webp" alt="Space Ore : Négoce de minerais stellaires" width="100%">
+</p>
+
+<p align="center">
+  Bootstrap · Sass · Vite
+</p>
+
+## La direction artistique
+
+<p align="center">
+  <img src="vitrine/da.webp" alt="La direction artistique de Space Ore : ses couleurs et ses polices." width="100%">
+</p>
+
+<sub>Couleurs et polices relevées dans le CSS du projet par le hub ; captures de sa fiche.</sub>
+<!-- vitrine:fin -->
 
 Discover **Space Ore** - <span style="text-decoration:underline;">Unlocking the Treasures of the Cosmos!</span>
 
