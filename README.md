@@ -4,14 +4,42 @@
 </p>
 
 <p align="center">
-  Bootstrap · Sass · Vite
+  <a href="https://space-ore.netlify.app/"><b>space-ore.netlify.app/</b></a><br>
+  Bootstrap · Sass · Vite · Netlify
 </p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="vitrine/captures/01-l-accueil.webp" alt="L'accueil de Space Ore">
+      <p>L'accueil de Space Ore</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="vitrine/captures/02-qui-sommes-nous.webp" alt="Qui sommes-nous, et le vaisseau">
+      <p>Qui sommes-nous, et le vaisseau</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="vitrine/captures/03-les-minerais.webp" alt="Les huit minerais stellaires">
+      <p>Les huit minerais stellaires</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="100%" valign="top"><img src="vitrine/captures/04-telephone-l-accueil.webp" alt="L'accueil sur téléphone"></td>
+  </tr>
+</table>
 
 ## La direction artistique
 
 <p align="center">
   <img src="vitrine/da.webp" alt="La direction artistique de Space Ore : ses couleurs et ses polices." width="100%">
 </p>
+
+La nuit de Bootstrap ($dark) en fond, le texte en blanc ($primary), et le turquoise ($secondary) pour les titres. Le pétrole ne sert qu'aux graphiques, et le pied de page fond de la nuit au turquoise. Termina pour le grand titre, Poppins pour tout le reste.
 
 <sub>Couleurs et polices relevées dans le CSS du projet par le hub ; captures de sa fiche.</sub>
 <!-- vitrine:fin -->
