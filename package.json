@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-integration",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "sass": "^1.64.2",
-    "vite": "^4.4.5"
+    "vite": "^6.4.5"
   },
   "dependencies": {
     "bootstrap": "^5.3.1",
